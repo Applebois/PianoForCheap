@@ -1,0 +1,8 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage1.master.cs" Inherits="myWebsiteLab.Memeber_Folder.NestedMasterPage1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    <h2>Member Master</h2>
+    <a href="Default">Home</a>
+    <a href="MemberProfile">My Profile</a>
+    <a href="MemberOrder">My Order</a>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>

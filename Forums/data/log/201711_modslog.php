@@ -1,0 +1,10 @@
+<?PHP exit;?>	1511324626	admin	1	::1	2	Discussion board	1	Term and Conditions	UST			
+<?PHP exit;?>	1511324626	admin	1	::1	2	Discussion board	1	Term and Conditions	UHL			
+<?PHP exit;?>	1511324795	admin	1	::1	2	Discussion board	1	Term and Conditions	BMP			
+<?PHP exit;?>	1511324806	admin	1	::1	2	Discussion board	1	Term and Conditions	BMP			
+<?PHP exit;?>	1511324806	admin	1	::1	2	Discussion board	1	Term and Conditions	EHL			
+<?PHP exit;?>	1511325185	admin	1	::1	2	Discussion board	1	Term and Conditions	DIG			
+<?PHP exit;?>	1511325198	admin	1	::1	2	Discussion board	1	Term and Conditions	DIG			
+<?PHP exit;?>	1511325206	admin	1	::1	2	Discussion board	1	Term and Conditions	DIG			
+<?PHP exit;?>	1511846501	admin	1	::1	2	Discussion board	2	Test	DEL	Offending content		
+<?PHP exit;?>	1511847386	admin	1	::1	2	Discussion board	3	test	DEL	Offending content		
